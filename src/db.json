@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 2,
+      "nome": "Lucas",
+      "imagem": "assets/img/default-150x150.png",
+      "valor": 25
+    },
+    {
+      "id": 3,
+      "nome": "Fernando",
+      "imagem": "imagem",
+      "valor": 26
+    },
+    {
+      "imagem": "imagem",
+      "nome": "asdfasfd",
+      "valor": 3434,
+      "id": 4
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
